@@ -1,0 +1,108 @@
+[
+    {
+        "id": "1",
+        "name": "Royal Banarasi Silk Saree",
+        "slug": "royal-banarasi-silk-saree",
+        "price": 12999,
+        "category": "Banarasi",
+        "fabric": "Silk",
+        "color": "Red",
+        "images": [
+            "https://images.unsplash.com/photo-1617627143750-d86bc21e42bb?q=80&w=1000&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1610189012906-47833822852d?q=80&w=1000&auto=format&fit=crop"
+        ],
+        "description": "Handwoven Banarasi silk saree with intricate zari work. Perfect for weddings and festive occasions.",
+        "tags": [
+            "bridal",
+            "festive",
+            "heavy work"
+        ],
+        "inStock": true,
+        "isNew": true,
+        "isFeatured": true
+    },
+    {
+        "id": "2",
+        "name": "Elegant Kanchipuram Gold",
+        "slug": "elegant-kanchipuram-gold",
+        "price": 15499,
+        "category": "Kanchipuram",
+        "fabric": "Silk",
+        "color": "Gold",
+        "images": [
+            "https://images.unsplash.com/photo-1583391733956-6c78276477e2?q=80&w=1000&auto=format&fit=crop",
+            "https://images.unsplash.com/photo-1610189010146-d87e8d4f1533?q=80&w=1000&auto=format&fit=crop"
+        ],
+        "description": "Pure Kanchipuram silk saree in a stunning gold shade with temple borders.",
+        "tags": [
+            "traditional",
+            "wedding",
+            "gold"
+        ],
+        "inStock": true,
+        "isNew": false,
+        "isFeatured": true
+    },
+    {
+        "id": "3",
+        "name": "Lightweight Floral Cotton",
+        "slug": "lightweight-floral-cotton",
+        "price": 2499,
+        "category": "Cotton",
+        "fabric": "Cotton",
+        "color": "Pink",
+        "images": [
+            "https://images.unsplash.com/photo-1621644827252-039c981b1b65?q=80&w=1000&auto=format&fit=crop"
+        ],
+        "description": "Breathable cotton saree with delicate floral prints. Ideal for daily wear and office.",
+        "tags": [
+            "daily wear",
+            "office",
+            "summer"
+        ],
+        "inStock": true,
+        "isNew": true,
+        "isFeatured": false
+    },
+    {
+        "id": "4",
+        "name": "Midnight Blue Designer Georgette",
+        "slug": "midnight-blue-designer-georgette",
+        "price": 5999,
+        "category": "Designer",
+        "fabric": "Georgette",
+        "color": "Blue",
+        "images": [
+            "https://images.unsplash.com/photo-1596392996883-43c81cd39497?q=80&w=1000&auto=format&fit=crop"
+        ],
+        "description": "Contemporary designer saree in georgette with sequin embellishments.",
+        "tags": [
+            "party",
+            "modern",
+            "evening"
+        ],
+        "inStock": true,
+        "isNew": false,
+        "isFeatured": true
+    },
+    {
+        "id": "5",
+        "name": "Emerald Green Mysore Silk",
+        "slug": "emerald-green-mysore-silk",
+        "price": 8999,
+        "category": "Silk",
+        "fabric": "Silk",
+        "color": "Green",
+        "images": [
+            "https://images.unsplash.com/photo-1610189009669-04d499318811?q=80&w=1000&auto=format&fit=crop"
+        ],
+        "description": "Soft Mysore silk saree in a rich emerald green with gold borders.",
+        "tags": [
+            "traditional",
+            "festive"
+        ],
+        "inStock": true,
+        "isNew": false,
+        "isFeatured": false
+    }
+]
